@@ -2,4 +2,4 @@
 
 My online presence.
 
-Based on [static-boilerplate](https://github.com/krulik/static-boilerplate).
+Based on [harp-boilerplate](https://github.com/krulik/harp-boilerplate).
