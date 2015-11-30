@@ -9,3 +9,9 @@
 
 - [LinkedIn](http://il.linkedin.com/in/sergekrul)
 - [Github](https://github.com/krulik)
+
+***
+
+## What to do here
+
+- [About](about)
