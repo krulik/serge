@@ -5,6 +5,12 @@
 
 ***
 
+## Register to my next class (July 2017)
+- [Get more details](https://www.facebook.com/frontendmasterclass/)
+- [Let's talk!](http://m.me/frontendmasterclass)
+
+***
+
 ## Say hi
 
 - [LinkedIn](http://il.linkedin.com/in/sergekrul)
