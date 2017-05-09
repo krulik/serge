@@ -1,7 +1,7 @@
 # Serge Krul
 ## I create things that last.
 
-![](https://en.gravatar.com/userimage/5738393/a379a81b78cf317e2ed44d8a117269c5.jpg?size=200)
+![](https://en.gravatar.com/userimage/5738393/ea17d4db9da6f854aa44821a5b946982.jpg?size=200)
 
 ***
 
@@ -9,9 +9,3 @@
 
 - [LinkedIn](http://il.linkedin.com/in/sergekrul)
 - [Github](https://github.com/krulik)
-
-***
-
-## What to do here
-
-- [About](about)
