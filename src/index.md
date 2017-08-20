@@ -5,7 +5,7 @@
 
 ***
 
-## Register to my next class (July 2017)
+## Register to my next class (October 2017)
 - [Get more details](https://www.facebook.com/frontendmasterclass/)
 - [Let's talk!](http://m.me/frontendmasterclass)
 
